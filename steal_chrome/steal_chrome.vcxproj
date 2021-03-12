@@ -151,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chrome.cpp" />
     <ClCompile Include="steal_chrome.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chrome.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

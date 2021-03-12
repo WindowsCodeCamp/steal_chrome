@@ -18,5 +18,13 @@
     <ClCompile Include="steal_chrome.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="chrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chrome.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
